@@ -1,6 +1,6 @@
 #!/bin/bash
 # script1_system_identity.sh
-# Author: Aditya Patidar # Roll Number: 24BCE10948
+# Author: ISHANT RANA  # Roll Number: 24BCE10853
 # Purpose: Display basic system and user information to establish the environment
 
 echo "==========================================="
@@ -46,8 +46,8 @@ echo "==========================================="
 # Date/Time       : 2023-11-20 14:30:00
 # Linux Distro    : Ubuntu 22.04.3 LTS
 # Kernel Version  : 5.15.0-88-generic
-# Logged in User  : aditya
-# Home Directory  : /home/Aditya Patidar 
+# Logged in User  : ishant
+# Home Directory  : /home/Ishant Rana 
 # System Uptime   : up 2 hours, 15 minutes
 # -------------------------------------------
 # Fun Fact: Ubuntu 22.04.3 LTS is open source and heavily relies on the GPL license!
