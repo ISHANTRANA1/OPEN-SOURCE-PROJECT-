@@ -1,7 +1,7 @@
 #!/bin/bash
 # script4_log_analyzer.sh
-# Author: Aditya Patidar 
-# Roll Number: 24BCE10948
+# Author: ISHANT RANA 
+# Roll Number: 24BCE10853
 # Purpose: Accept a log file path and search for a specific keyword
 
 echo "==========================================="
