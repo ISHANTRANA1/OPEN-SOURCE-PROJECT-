@@ -1,7 +1,7 @@
 #!/bin/bash
 # script3_disk_auditor.sh
-# Author: Aditya Patidar 
-# Roll Number: 24BCE10948
+# Author: Ishant Rana
+# Roll Number: 24BCE10853
 # Purpose: Audit important directories for size and permissions, and check Git config
 
 echo "==========================================="
